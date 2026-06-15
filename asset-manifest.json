@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/salesforce-planning-app/static/css/main.93e8ea5a.css",
-    "main.js": "/salesforce-planning-app/static/js/main.468627b8.js",
+    "main.js": "/salesforce-planning-app/static/js/main.2393f5b2.js",
     "static/js/453.2c776395.chunk.js": "/salesforce-planning-app/static/js/453.2c776395.chunk.js",
     "index.html": "/salesforce-planning-app/index.html",
     "main.93e8ea5a.css.map": "/salesforce-planning-app/static/css/main.93e8ea5a.css.map",
-    "main.468627b8.js.map": "/salesforce-planning-app/static/js/main.468627b8.js.map",
+    "main.2393f5b2.js.map": "/salesforce-planning-app/static/js/main.2393f5b2.js.map",
     "453.2c776395.chunk.js.map": "/salesforce-planning-app/static/js/453.2c776395.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93e8ea5a.css",
-    "static/js/main.468627b8.js"
+    "static/js/main.2393f5b2.js"
   ]
 }
